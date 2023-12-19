@@ -22,3 +22,5 @@ How do the college conference and division from which NFL players were drafted c
 
 ## Conclusion:
 There doesn't seem to be a huge correlation between NFL success and college conferences, but there's a lot more that could still be done with this question. In the future, I would like to explore what “success” could mean in a data set. It would be helpful to create a ranking system with accuracy, team wins, etc., but it would be difficult to create a grading system that every type of player could be on. Alternatively, there could be multiple models – one for each position, so that new variables don’t mess up other types of players. For models, exploring more ensemble techniques that combine the strengths of multiple models could be helpful. Stacking or blending models could potentially improve predictive performance because of the diverse perspectives offered by different algorithms.
+
+For a more in-depth analysis, check out this [blog post](https://maddieportrey.github.io/my386blog/2023/12/18/Final-Project.html)
