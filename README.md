@@ -3,7 +3,7 @@
 How do the college conference and division from which NFL players were drafted correlate with their success in the NFL? 
 
 - Does a tougher schedule because of a higher caliber conference prepare players better for the competition of the NFL?
-- Success can be defined as higher yardage or more touchdowns than average for each position.
+- Success can be defined as higher yardage, more touchdowns, and more touches on the ball than the average player.
 
 ## Sources:
 - https://www.kaggle.com/datasets/zynicide/nfl-football-player-stats/code -- 25k player's stats for over 1,000,000 games played
