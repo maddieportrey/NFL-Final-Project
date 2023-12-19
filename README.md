@@ -13,6 +13,8 @@ How do the college conference and division from which NFL players were drafted c
 - NFL_Data_Clean.ipynb -- combined datasets to start with a semi-interpretable one for the EDA, etc.
 - NFL_EDA.ipynb -- includes EDA, model training, and model performance/evaluation
 - total.csv -- cleaned data set from NFL_Data_Clean.ipynb
+- feedback.md -- contains details of the feedback I received and what I did to implement those suggestions
+- Final Report.docx -- the finished report of the entire project, including visualizations
 
 ## Results:
 - Logistic Regression: F1 - 0.213018
