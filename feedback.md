@@ -1,0 +1,5 @@
+First feedback session (after EDA): I talked to some of my friends about what I could further explore in the data, and they helped me decide to add the touches on the ball column to further define success. They also suggested that I add multiple plots (one for each conference) to show the distribution of yards per conference.
+
+Second feedback session (after model fitting): I talked to a few other friends (ones with statistical and machine learning knowledge) about the models I looked at. They suggested that I rerun the Random Forest model and hypertune the parameters because it had pretty good performance the first time. They also suggested that I throw out the Decision Tree Model because it didn't perform well and didn't add anything that other models didn't already have.
+
+Third feedback session (after final report): I talked to one more person about the final report, and he helped me format it better to make it more professional. He also helped me reword part of my section about the best model performance that would be unclear to people who didn't have a heavy knowledge of machine learning already.
